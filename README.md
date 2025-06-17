@@ -23,6 +23,6 @@ To import the flow into your Node-RED environment:
 
 1. Open your Node-RED editor.
 2. Go to the menu → *Import* → *Clipboard*.
-3. Paste the contents of the `dcs_flow.json` file.
+3. Paste the contents of the `flows.json` file.
 4. Click *Deploy* to activate the flow.
 
