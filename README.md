@@ -11,9 +11,9 @@ The flow processes two primary sensor data streams (`sensor1/data`, `sensor2/dat
 - Real-time data visualization via `chart` and `gauge` nodes
 - Rule-based automation using `function`, `switch`, and `mqtt` nodes
 - Control commands published to dedicated topics:
+  - `sensor/control`: used to control the data flow from **both sensors simultaneously**
   - `sensor1/control`: controls the data flow from **sensor 1 only**
   - `sensor2/control`: controls the data flow from **sensor 2 only**
-  - `sensor/control`: used to control the data flow from **both sensors simultaneously**
 - Error detection and notification through filtering and email alerts
 
 
