@@ -26,5 +26,5 @@ To import the flow into your Node-RED environment:
 3. Paste the contents of the `flows.json` file.
 4. Click *Deploy* to activate the flow.
 
-Editor: Tuğrul Göl
-Istinye University Computer Engineering Master's Thesis
+#Editor: Tuğrul Göl
+#Istinye University Computer Engineering Master's Thesis
